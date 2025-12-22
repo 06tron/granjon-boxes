@@ -1,7 +1,7 @@
 Z2 Granjon Boxes copyright (c) 2025, Matthew Richardson
 (https://orcid.org/0009-0001-0977-2029), with Reserved Font Name "Z2".
 
-Kreative Square copyright (c) 2017-2025 Kreative Software.
+Kreative Square copyright (c) 2017-2025, Kreative Software.
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  

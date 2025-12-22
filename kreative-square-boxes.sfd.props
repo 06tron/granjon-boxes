@@ -1,0 +1,92 @@
+SplineFontDB: 3.2
+FontName: kreative-square-boxes
+FullName: Kreative Square 2025 Modified
+FamilyName: Kreative Square 2025 Modified
+Weight: Medium
+Copyright: Kreative Square copyright (c) Kreative Software 2017-2025 under the Open Font License.
+Version: 2025.03.20
+ItalicAngle: 0
+UnderlinePosition: -72
+UnderlineWidth: 36
+Ascent: 560
+Descent: 160
+InvalidEm: 0
+sfntRevision: 0x07e907ae
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 795 -371388666 3028527]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1504498285
+ModificationTime: 1760739802
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 6 9 0 0 0 0 0 0
+OS2TypoAscent: 560
+OS2TypoAOffset: 0
+OS2TypoDescent: -160
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 560
+OS2WinAOffset: 0
+OS2WinDescent: 160
+OS2WinDOffset: 0
+HheadAscent: 560
+HheadAOffset: 0
+HheadDescent: -160
+HheadDOffset: 0
+OS2SubXSize: 468
+OS2SubYSize: 503
+OS2SubXOff: 0
+OS2SubYOff: 100
+OS2SupXSize: 468
+OS2SupYSize: 503
+OS2SupXOff: 0
+OS2SupYOff: 345
+OS2StrikeYSize: 35
+OS2StrikeYPos: 186
+OS2CapHeight: 480
+OS2XHeight: 400
+OS2Vendor: 'KrKo'
+OS2CodePages: e000009b.ddd50000
+OS2UnicodeRanges: 800000ff.5200fbfb.14000020.04000000
+Lookup: 4 0 1 "'rlig' Required Ligatures lookup 0" { "'rlig' Required Ligatures lookup 0 subtable"  } ['rlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ShortTable: maxp 16
+  1
+  0
+  6210
+  1100
+  128
+  49
+  6
+  2
+  0
+  1
+  1
+  0
+  64
+  0
+  2
+  1
+EndShort
+LangName: 1033
+GaspTable: 1 65535 2 0
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 27 11
+BeginPrivate: 0
+EndPrivate
