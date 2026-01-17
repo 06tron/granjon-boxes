@@ -1,25 +1,17 @@
 Z2 Granjon Boxes copyright (c) 2025, Matthew Richardson
 (https://orcid.org/0009-0001-0977-2029), with Reserved Font Name "Z2".
-
 Kreative Square copyright (c) 2017-2025, Kreative Software.
 
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.  
-This license is copied below, and is also available with a FAQ at:  
-https\://openfontlicense.org  
-&nbsp;
 
-\----------------------------------------------------------------------
-
-#### SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
-
-\----------------------------------------------------------------------
-
-&nbsp;
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
 
 PREAMBLE
------------
-
 The goals of the Open Font License (OFL) are to stimulate worldwide
 development of collaborative font projects, to support the font creation
 efforts of academic and linguistic communities, and to provide a free and
@@ -36,8 +28,6 @@ requirement for fonts to remain under this license does not apply
 to any document created using the fonts or their derivatives.
 
 DEFINITIONS
------------
-
 "Font Software" refers to the set of files released by the Copyright
 Holder(s) under this license and clearly marked as such. This may
 include source files, build scripts and documentation.
@@ -57,8 +47,6 @@ new environment.
 writer or other person who contributed to the Font Software.
 
 PERMISSION & CONDITIONS
------------
-
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of the Font Software, to use, study, copy, merge, embed, modify,
 redistribute, and sell modified and unmodified copies of the Font
@@ -92,14 +80,10 @@ remain under this license does not apply to any document created
 using the Font Software.
 
 TERMINATION
------------
-
 This license becomes null and void if any of the above conditions are
 not met.
 
 DISCLAIMER
------------
-
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
