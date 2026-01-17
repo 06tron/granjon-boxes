@@ -3,8 +3,8 @@ FontName: KreativeSquare2025Modified
 FullName: Kreative Square 2025 Modified
 FamilyName: Kreative Square 2025 Modified
 Weight: Medium
-Copyright: Kreative Square copyright (c) Kreative Software 2017-2025 under the Open Font License.
-Version: 2025.03.20
+Copyright: Copyright (c) 2017-2025, Kreative Software, under the Open Font License.
+Version: 2025.03.20-boxes
 DefaultBaseFilename: k-square-boxes
 ItalicAngle: 0
 UnderlinePosition: -72
@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1504498285
-ModificationTime: 1768079605
+ModificationTime: 1768610946
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -79,7 +79,7 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "https://home.6t.lt" "https://www.kreativekorp.com" "" "https://openfontlicense.org"
 GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
@@ -87,7 +87,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 24 8
+WinInfo: 0 27 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 137 137
